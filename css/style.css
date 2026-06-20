@@ -551,9 +551,15 @@ h3 {
   border-bottom: 1px solid var(--line-soft);
 }
 
+.bank-box img {
+  width: 280px;
+  height: 300px;
+  display: block;
+  margin: 0 auto;
+}
+
 .warning-text {
   color: var(--warning-red);
-  font-weight: 700;
   border-bottom: 0;
 }
 
